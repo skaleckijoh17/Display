@@ -1,0 +1,13 @@
+h1 { text-align-last: center;}
+#Ana {
+width: 350px;
+border: 10px solid blue;
+margin: 25px 50px 25px 50px;
+}
+
+#sempre {
+width: 350px;
+border: 10px solid purple;
+margin: 25px 50px 25px 50px;
+}
+body {background-color: rgb(250,230,190);}
